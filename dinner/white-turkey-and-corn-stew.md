@@ -1,6 +1,6 @@
 # White Turkey and Corn Stew
 
-![White Turkey and Corn Stew](white-turkey-and-corn-stew)
+![White Turkey and Corn Stew](white-turkey-and-corn-stew.jpg)
 
 ## Ingredients
 
