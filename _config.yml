@@ -1,0 +1,5 @@
+baseurl: /recipes
+collections:
+  recipes:
+    output: true
+    permalink: /:title/

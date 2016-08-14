@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Asian Salmon Bowl with Lime Drizzle
 
 ![Asian Salmon Bowl with Lime Drizzle](http://www.epicurious.com/images/recipesmenus/2012/2012_june/51101210.jpg)

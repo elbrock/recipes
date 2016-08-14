@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Baked Teriyaki Chicken
 
 ![](http://images.media-allrecipes.com/userphotos/250x250/00/38/48/384820.jpg)

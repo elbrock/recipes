@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Classic Italian Lasagna
 
 ## Ingredients

@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Barley Mushroom Soup
 
 Makes about 8 cups.

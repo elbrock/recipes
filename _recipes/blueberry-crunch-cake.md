@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 preheat oven to 350
 
 Ingredients:

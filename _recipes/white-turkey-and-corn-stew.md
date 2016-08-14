@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # White Turkey and Corn Stew
 
 ![White Turkey and Corn Stew](http://static.spoonful.com/sites/default/files/styles/square_420x420/public/recipes/white-turkey-and-corn-stew-recipe-photo-420-FF1199TURKA09.jpg?itok=VqrRtX0P)
